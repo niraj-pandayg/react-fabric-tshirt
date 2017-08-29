@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,WAAW;EACV,KAAK,EAAC,kBAAkB;EACxB,MAAM,EAAE,kBAAkB;EAC1B,OAAO,EAAE,YAAY;EACrB,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,OAAO;EACnB,QAAQ,EAAE,IAAI",
+"sources": ["CanvasBox.scss"],
+"names": [],
+"file": "CanvasBox.css"
+}

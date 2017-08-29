@@ -1,0 +1,9 @@
+.image-container .image-container-content {
+  height: 100px;
+  background-size: cover;
+  background-position: center;
+  margin-bottom: 10px; }
+  .inputfile{
+    display: none !important;
+  }
+/*# sourceMappingURL=Image.css.map */
